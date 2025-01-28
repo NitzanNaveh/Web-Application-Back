@@ -52,15 +52,18 @@ npm install
 Create a .env file and define necessary configurations:
 
 PORT=5000
+
 JWT_SECRET=your_secret_key
+
 REFRESH_SECRET=your_refresh_secret
+
 DB_URL=your_database_url
 
 4️⃣ Run the API
 
 npm start
 
-For development with hot-reloading:
+For development environment
 
 npm run dev
 
