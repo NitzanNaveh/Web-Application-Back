@@ -1,4 +1,4 @@
-🌐 Web Application Backend
+🌐 Web Application Backend (Frontend part is not ready yet)
 
 📌 Overview
 
