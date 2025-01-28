@@ -40,6 +40,7 @@ Swagger (API documentation)
 1️⃣ Clone the Repository
 
 git clone https://github.com/NitzanNaveh/Web-Application-Back.git
+
 cd Web-Application-Back
 
 2️⃣ Install Dependencies
@@ -50,7 +51,10 @@ npm install
 
 Create a .env file and define necessary configurations:
 
-Po
+PORT=5000
+JWT_SECRET=your_secret_key
+REFRESH_SECRET=your_refresh_secret
+DB_URL=your_database_url
 
 4️⃣ Run the API
 
